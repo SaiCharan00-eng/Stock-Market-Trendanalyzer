@@ -1,3 +1,3 @@
-📈 Stock Market Trend Analyzer
+# 📈 Stock Trend Analyzer
 
-AI-powered Stock Trend Analyzer that extracts insights from financial news and answers real-time stock-related queries using Retrieval-Augmented Generation (RAG).
+An AI-powered stock trend analysis system that extracts insights from financial news, market reports, and analyst commentary, and answers real-time stock-related queries using Retrieval-Augmented Generation (RAG).
